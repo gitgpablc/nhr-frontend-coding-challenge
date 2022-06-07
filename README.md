@@ -15,7 +15,7 @@ Implement all or some of the following features in the order of your preference.
  hidden by default and is displayed when clicking on the Add Tenant button.
   * Validate tenant.leaseEndDate is in the future
   * Validate tenant.name length is less than or equal to than 25 characters
-* Ability to delete a tenant by clicking on Delete and calling `Service.deleteTenant`
+  * Ability to delete a tenant by clicking on Delete and calling `Service.deleteTenant`
 
 `Service.js`  is an API mock. You don't need to modify it for any reason other than possibly fiddling with the data it 
 provides.
